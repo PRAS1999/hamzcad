@@ -1,6 +1,6 @@
 <?php 
 // CAD URL \\
-define('BASE_URL', 'https://localhost/hamzcad');
+define('BASE_URL', 'https://iurpcadmdt.ml');
 
 // SQL DATABASE CONNECTION \\
 define('DB_HOST', 'localhost');
